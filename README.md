@@ -16,6 +16,8 @@ Perform advanced SQL analysis on e-commerce transactional data to answer critica
 
 - `ecommerce_analysis.sql` – SQL file containing all queries used in this project.
 - `ecommerce_analysis_output.pdf` – (Optional) Includes query output and visual screenshots.
+- - [ecommerce_analysis.sql](ecommerce_analysis.sql) — SQL script with all queries used in this project.
+
 
 ---
 
